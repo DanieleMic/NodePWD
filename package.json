@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Daniele Mic",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "pwd.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
